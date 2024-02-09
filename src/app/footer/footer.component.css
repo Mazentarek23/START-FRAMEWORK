@@ -1,0 +1,16 @@
+.footer{
+    padding: 40px;
+}
+.x{
+    border: 1px white solid;
+    border-radius: 50%;
+    padding: 10px;
+
+}
+.card{
+    border: none;
+}
+.bg-footer{
+    background-color: #1a252f;
+    padding: 10px;
+}
